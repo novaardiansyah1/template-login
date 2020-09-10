@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "negotiate";
+  src: url("/assets/fonts/sans-serif/negotiate.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "comprehension";
+  src: url("/assets/fonts/serif/comprehension.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+.text-negotiate {
+  font-family: "negotiate";
+}
+
+.text-comprehension {
+  font-family: "comprehension";
+}
+
+/*# sourceMappingURL=fonts.css.map */
